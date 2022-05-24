@@ -1,5 +1,5 @@
 # KOZY
-KB IT's Your Life - final project
+KB IT's Your Life - final project  
 django web project
 
 ![image](https://user-images.githubusercontent.com/69580736/170024622-b1f071a5-126a-4e77-8ec6-499ce863963d.png)
